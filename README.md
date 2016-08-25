@@ -12,8 +12,9 @@ interests
 - continuous integration and deployment
 
 languages
-- perl
 - java
+- c/c++
+- perl
 - php
 - html
 - css
