@@ -20,4 +20,3 @@ languages
 - javascript
 - sql
 - bash-scripting
-- 
