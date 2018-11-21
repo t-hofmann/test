@@ -11,6 +11,7 @@ interests
 - audio/signal processing
 - continuous integration and deployment
 - artificial intelligence & machine learning
+
 languages
 - java
 - c/c++
