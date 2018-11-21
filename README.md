@@ -20,5 +20,6 @@ languages
 - html
 - css
 - javascript
+- typescript
 - sql
 - bash-scripting
