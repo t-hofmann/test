@@ -10,12 +10,13 @@ interests
 - web-development
 - audio/signal processing
 - continuous integration and deployment
-
+- artificial intelligence & machine learning
 languages
 - java
 - c/c++
 - perl
 - php
+- python
 - html
 - css
 - javascript
